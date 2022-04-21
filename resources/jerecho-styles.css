@@ -1,0 +1,21 @@
+html,
+body,
+nav {
+  background-color: #fffdfa;
+}
+
+body {
+  margin: 1% 5%;
+  font-family: "Open Sans", sans-serif;
+  font-size: 16px;
+}
+
+nav {
+  display: flex;
+  flex-direction: row;
+  height: 100px;
+  justify-content: space-evenly;
+  align-items: flex-start;
+  font-family: "Montserrat", sans-serif;
+  font-size: 16px;
+}
